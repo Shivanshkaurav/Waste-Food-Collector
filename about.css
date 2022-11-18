@@ -1,0 +1,31 @@
+.blue_detail{
+  background-color: #21E1E1;
+  height: 600px;
+}
+.welcome{
+  position: relative;
+  left: 33%;
+  top: 100px;
+  width: 500px;
+}
+.firstline{
+  position: relative;
+  text-align: center;
+  top: 110px;
+  width: 60%;
+  left: 20%;
+}
+.details{
+  position: relative;
+  text-align: left;
+  top: 120px;
+  width: 60%;
+  left: 20%;
+}
+.last_line{
+  position: relative;
+  text-align: center;
+  top: 130px;
+  width: 60%;
+  left: 20%;
+}
